@@ -26,16 +26,16 @@ size, 9. Iterating over list, 10. Using Iterator, 11. Sorting, 12. Sublist, 13. 
 [Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_colorremove.png)<br>
 
 3. Write a java program for getting different colors through ArrayList interface and sort them using Collections.sort( ArrayListObj)<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sort.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sort-op.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_ColorSort.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_colorsort.png)<br>
 
 4. Write a java program for getting different colors through ArrayList interface and extract the elements 1st and 2nd from the ArrayList object by using SubList()<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_SubList.java) <br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/Array_Sublist-op.png)
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_ColorSubList.java) <br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_colorsublist.png)
 
 5. Write a java program for getting different colors through ArrayList interface and delete nth element from the ArrayList object by using remove by index<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/RemoveNthElement.java) <br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/ListInterfaceDemo/ArrayList/RemoveNthElement-op.png)
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_ColorRemoveByIndex.java) <br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp1-ListInterface/1b_ColorRemoveByIndex.png)
 
 ---
 **1c. LinkedList**
