@@ -205,7 +205,7 @@ procedure.<br>
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.<br>
 [Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet.java)<br>
-[Output Screenshot]()<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet.jpeg)<br>
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.<br>
