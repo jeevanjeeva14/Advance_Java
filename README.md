@@ -85,37 +85,36 @@ your answer which one is better.**<br>
 Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
 String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
 startsWith() and endsWith()<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringOperations.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringOperations(3a)_Output.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3a_StringOperationsDemo3a.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3a_StringOperationsDemo3a.png)<br>
 
 ---
 
 **3b. String Exercises**<br>
 1. Write a Java Program for Checking if a given string is null or contains only whitespace using user
 defined function isNullOrEmpty().<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/StringCheck-op.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_NullOrWhitespaceCheck.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_NullOrWhitespaceCheck1.png)<br>
 
 2. Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/SubstringCounter.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/SubstringCounter%20-op.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_SubstringCounter.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_substringCounte.png)<br>
 
 3. Write a Java Program for Reversing the characters in a string using user defined function
 reverseString().<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/ReverseString%20-op.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_ReverseStringDemo.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_ReverseStringDemo.png)<br>
 
 4. Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome():<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/PalindromeCheck.java
-)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/PalindromeCheck%20-op.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_PalindromeChecker.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_PalindromeChecker.png)<br>
 
 5. Write a Java Program for Eliminating all whitespace characters from a string using user defined
 function removeWhitespace()<br>
-[Program](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace.java)<br>
-[Output Screenshot](https://github.com/jeevankumar812/Advanced-Java/blob/main/StringOperations/RemoveWhitespace-%20op.png)<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_WhitespaceRemover.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp3-StringOperations/3b_WhitespaceRemover.png)<br>
 
 ---
 
