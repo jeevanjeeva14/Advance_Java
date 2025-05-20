@@ -189,8 +189,8 @@ display the capital of the countries on console whenever the countries are selec
 
 5d. Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
 display the concerned color whenever the specific tab is selected in the Pan<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp5-Swings/5d_ColorTabbedPane.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp5-Swings/5d_colortabbedpane.png)<br>
 
 ---
 
@@ -198,19 +198,19 @@ display the concerned color whenever the specific tab is selected in the Pan<br>
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step
 procedure.<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/FactorialServlet/6a_FactorialServlet.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/FactorialServlet/6a_factorial.jpeg)<br>
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit
 button( through HTML) to display the message by greeting Welcome back your name ! , you have
 visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.<br>
-[Program]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/CookieServlet/6b_CookieServlet.java)<br>
 [Output Screenshot]()<br>
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step
 by step procedure.<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/PrimeServlet/6c_PrimeServlet.java)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp6-Servlets/PrimeServlet/6c_prime.jpeg)<br>
 
 ---
 
@@ -219,14 +219,14 @@ by step procedure.<br>
 7a. Build a Session Management using JSP program set with one minute session expiry time to get
 your name through text box and press submit to display the message by greeting Hello your name!.
 Check the expiry of the session after one minute.<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPCookieManagement/7a_second.jsp)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPCookieManagement/7a_session-j.jpeg)<br>
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max
 Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then
 it has to go to show the active cookie list when you press the link go to the active cookie list<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPSessionManagement/7b_setCookie.jsp)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp7-JSPSessionManagement/7b_cookie-j.jpeg)<br>
 
 ---
 
