@@ -248,14 +248,14 @@ existing coffee product in the table with its id. [Create a table coffee with fi
 into the table Emp of the database Employee by getting the fields through keyboard and
 Generate the report as follows for the TABLE Emp (Emp_NO , Emp_Name, Basicsalary ) using
 HTML and JSP to get the fields and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp8-SQL%2BJDBC/8C/8c_insertEmpAction.jsp)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp8-SQL%2BJDBC/8C/8c_insertEmpAction.jpeg)<br>
 
 8d. Develop a JDBC project using JDBC to update the fields empno, empname and basicsalary into
 the table Emp of the database Employee using HTML and JSP to get the fields and display the
 results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp8-SQL%2BJDBC/8D/8d_updateEmpAction.jsp)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp8-SQL%2BJDBC/8D/8d_Update.jpeg)<br>
 
 ---
 **9. SQL + JDBC Examples**
@@ -276,14 +276,14 @@ results respectively<br>
 into the table Emp of the database Employee by getting the fields through keyboard and Generate
 the report as follows for the table Emp (Emp_NO , Emp_Name, Basicsalary ) using HTML and JSP
 to get the field and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp9-SQL%2BJDBC/9C/viewFilteredReport.jsp)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp9-SQL%2BJDBC/9C/9c.jpeg)<br>
 
 9d. Develop a JDBC project using MySQL to delete the records in the table Emp of the database
 Employee by getting the name starting with ‘S’ through keyboard and Generate the report as
 follows using HTML and JSP to get the field and display the results respectively<br>
-[Program]()<br>
-[Output Screenshot]()<br>
+[Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp9-SQL%2BJDBC/9D/9d_DeleteEmp.jsp)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp9-SQL%2BJDBC/9D/9d.jpeg)<br>
 
 
 
