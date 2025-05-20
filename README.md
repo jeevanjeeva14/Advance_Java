@@ -75,7 +75,7 @@ contains( ) and startsWith() and endsWith()<br>
 appending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify
 your answer which one is better.**<br>
 [Program](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp2-StringHandling/2b_StringBufferVsStringBuilderPerformance.java)<br>
-[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp2StringHandling/2b_StringBufferVsStringBuilderPerformance.png)<br>
+[Output Screenshot](https://github.com/jeevanjeeva14/Advance_Java/blob/main/Exp2-StringHandling/2b_StringBufferVsStringBuilderPerformance.png)<br>
 
 ---
 
